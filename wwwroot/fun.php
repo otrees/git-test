@@ -3,5 +3,6 @@
 	 echo "hello";
 	 echo "<br/>";
 	 echo "ok";
+	 echo "ok i am master";
  }
 ?>
